@@ -1,0 +1,1 @@
+onError(err: Error): void;
